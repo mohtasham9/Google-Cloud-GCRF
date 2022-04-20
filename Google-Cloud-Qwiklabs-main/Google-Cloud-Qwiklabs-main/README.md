@@ -1,5 +1,5 @@
 <p align="center">
-<h4 align="center">Show some ❤️ by starring my repositories & follow me for more help! <a href="https://github.com/mohtasham9?tab=repositories"> Mohtasham Sayeed Mohiuddin </a></h4>
+<h4 align="center">Star my repositories & follow me for more help! <a href="https://github.com/mohtasham9?tab=repositories"> Mohtasham Sayeed Mohiuddin </a></h4>
 </p>
 
 <h2 align="center">Connect Me !! 🤝</h2> 
